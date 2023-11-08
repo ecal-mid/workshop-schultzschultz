@@ -24,11 +24,11 @@ let sound
 window.addEventListener('gc.controller.found', (event) => {
     sound.loop();
 });
-window.addEventListener('gc.analog.change', handleSlide);
+window.addEventListener('gc.analog.change', handleSlider);
 window.addEventListener('gc.button.press', handleButton);
 window.addEventListener('gc.button.release', handleButton);
 
-function handleSlide(event) {
+function handleSlider(event) {
     const { name, position } = event.detail;
     switch (name) {
         case 'RIGHT_ANALOG_STICK':
