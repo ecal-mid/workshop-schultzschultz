@@ -23,6 +23,7 @@ let sound
 
 window.addEventListener('gc.controller.found', (event) => {
     sound.loop();
+    console.log('controller found');
 });
 window.addEventListener('gc.analog.change', handleSlider);
 window.addEventListener('gc.button.press', handleButton);
