@@ -289,6 +289,7 @@ public class GamepadGUI implements GamepadGUIConst {
     if(infoDisabled) return;
     push();
     resetMatrix();
+    blendMode(DIFFERENCE);
     stroke(128);
     noFill();
     strokeWeight(rem(0.1));

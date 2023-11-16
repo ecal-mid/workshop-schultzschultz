@@ -7,7 +7,7 @@
 <title>Project title</title>
 <paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</paragraph>
 <paragraph>Project by </paragraph>
-<info-button key="PS" layer="GUIDE" disabled="1">Close</info-button>
+<info-button key="PS" layer="GUIDE" disabled="0">Close</info-button>
 <!-- <paragraph>© ECAL Bachelor Media &amp; Interaction Design</paragraph> -->
 <inputs>
 
