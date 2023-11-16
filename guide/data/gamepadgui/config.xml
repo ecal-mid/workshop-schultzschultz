@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<config>
+
+<svg>gamepadgui/ps4.svg</svg>
+<gamepad-config>gamepadgui/PS_Controller_Setup</gamepad-config>
+
+<title>Project title</title>
+<paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</paragraph>
+<paragraph>Project by </paragraph>
+<info-button key="PS" layer="GUIDE" disabled="1">Close</info-button>
+<!-- <paragraph>© ECAL Bachelor Media &amp; Interaction Design</paragraph> -->
+<inputs>
+
+
+    <hat key="HAT" way="up" pos="2 1 3" layer="HAT_up">description hat up</hat>
+    <hat key="HAT" way="right" pos="5 4 3" layer="HAT_right">description hat right</hat>
+    <hat key="HAT" way="down" pos="6 7 5" layer="HAT_down">description hat down</hat>
+    <hat key="HAT" way="left" pos="7 8 1" layer="HAT_left">description hat left</hat>
+
+    <button key="SH" layer="SH">description share</button>
+    <button key="OP" layer="OP">description option</button>
+    <button key="TP" layer="TP">description touchpad</button>
+    <button key="PS" layer="PS">description playstation</button>
+
+    <button key="L3" layer="L3">description joystick right</button>
+    <button key="L2" layer="L2_LZ">description L2</button>
+    <button key="L1" layer="L1">description L1</button>
+
+    <button key="R3" layer="R3">description joystick right</button>
+    <button key="R2" layer="R2_RZ">description R2</button>
+    <button key="R1" layer="R1">description R2 description R2 description R2 description R2 description R2 description R2 description R2 description R2 description R2</button>
+
+    <button key="SQ" layer="SQ">description square</button>
+    <button key="CR" layer="CR">description cross</button>
+    <button key="CI" layer="CI">description circle</button>
+    <button key="TR" layer="TR">description triangle</button>
+
+    
+    <slider key="LX" layer="LX_LY" start="-73" end="73" way="1 0">description LX</slider>
+    <slider key="LY" layer="LX_LY" start="-73" end="73" way="0 1">description LY</slider>
+    <slider key="RX" layer="RX_RY" start="-73" end="73" way="1 0">description RX</slider>
+    <slider key="RY" layer="RX_RY" start="-73" end="73" way="0 1">description RY</slider>
+    <slider key="RZ" layer="R2_RZ" start="0" end="10" way="0 1">description R2_RZ</slider>
+    <slider key="LZ" layer="L2_LZ" start="0" end="10" way="0 1">description L2_LZ</slider>
+
+    
+</inputs>
+</config>

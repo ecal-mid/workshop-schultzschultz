@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.0" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 1080"
+	 style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="973.3" width="1802.4" x="-361.2" y="-995.2"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<symbol  id="Manette" viewBox="-149.5 -207.2 299 345">
+	<path style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M-149.5,130.3h107.4c3.3,0,6.6,1,9.3,3h0
+		c2.7,2,6,3,9.3,3h77.4c6,0,11.5-3.2,14.5-8.3l0,0c22.5-38.4,35.6-47.8,44.7-91.4l33.8-165.5c6.5-33.9-14.7-66.9-48.3-75.1l0,0
+		c-30.7-7.5-62.4,8.3-74.9,37.4l-37.9,88.3h-135.4"/>
+	<circle style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="33.6" cy="34.6" r="68.9"/>
+</symbol>
+<symbol  id="knob" viewBox="-98.2 -98.2 196.4 196.4">
+	<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="0" cy="0" r="96.8"/>
+	<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="0" cy="0" r="73.1"/>
+	<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="0" cy="0" r="35.1"/>
+</symbol>
+<g id="Layer_1" style="display:none;">
+	<g id="Xg98Vh_00000032640965784681138020000011411443695805215878_" style="display:inline;">
+		
+			<image style="overflow:visible;opacity:0.5;" width="1000" height="540" id="Xg98Vh_00000181046671387326259500000013670748727347909508_" xlink:href="4F8E290BA5737FDB.jpg"  transform="matrix(1.8024 0 0 1.8024 58.8196 -33.4533)">
+		</image>
+	</g>
+</g>
+<g>
+	
+		<use xlink:href="#Manette"  width="299" height="345" id="XMLID_00000178171025680544095110000015024177939107057572_" x="-149.5" y="-207.2" transform="matrix(1.8049 0 0 -1.8049 1232.7036 533.871)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Manette"  width="299" height="345" id="XMLID_00000033364062743184909730000005744802905235455677_" x="-149.5" y="-207.2" transform="matrix(-1.8049 0 0 -1.8049 693.0789 533.871)" style="overflow:visible;"/>
+</g>
+<g id="inputs">
+	<circle id="ps" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="963" cy="621.2" r="35"/>
+	<g id="circle">
+		<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="1373.2" cy="471.4" r="35"/>
+		<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="1373.2" cy="471.4" r="20.6"/>
+	</g>
+	<g id="triangle">
+		<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="1293.3" cy="391.4" r="35"/>
+		<polygon style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" points="1293.4,368.8 1272.1,405.6 
+			1314.6,405.6 		"/>
+	</g>
+	<g id="cross">
+		<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="1293.3" cy="551.3" r="35"/>
+		
+			<line style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" x1="1274.5" y1="532.6" x2="1312" y2="570"/>
+		
+			<line style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" x1="1312" y1="532.6" x2="1274.5" y2="570"/>
+	</g>
+	<g id="square">
+		<circle style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="1213.3" cy="471.4" r="35"/>
+		
+			<rect x="1198" y="456" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" width="30.6" height="30.6"/>
+	</g>
+	<path id="hatRight" style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M650.7,462.6l21-14.9
+		c1.8-1.3,4-2,6.2-2h27.5c5.9,0,10.8,4.8,10.8,10.8v29.9c0,5.9-4.8,10.8-10.8,10.8h-27.5c-2.2,0-4.4-0.7-6.2-2l-21-14.9
+		C644.7,475.8,644.7,466.9,650.7,462.6z"/>
+	<circle style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" cx="632.5" cy="471.4" r="124.3"/>
+	<path style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M623.8,453.2l-14.9-21c-1.3-1.8-2-4-2-6.2
+		v-27.5c0-5.9,4.8-10.8,10.8-10.8h29.9c5.9,0,10.8,4.8,10.8,10.8v27.5c0,2.2-0.7,4.4-2,6.2l-14.9,21
+		C637,459.2,628,459.2,623.8,453.2z"/>
+	<path id="hatLeft" style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M614.3,480.1l-21,14.9
+		c-1.8,1.3-4,2-6.2,2h-27.5c-5.9,0-10.8-4.8-10.8-10.8v-29.9c0-5.9,4.8-10.8,10.8-10.8h27.5c2.2,0,4.4,0.7,6.2,2l21,14.9
+		C620.4,466.9,620.4,475.8,614.3,480.1z"/>
+	<path id="hatDown" style="fill:none;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M641.3,489.5l14.9,21
+		c1.3,1.8,2,4,2,6.2v27.5c0,5.9-4.8,10.8-10.8,10.8h-29.9c-5.9,0-10.8-4.8-10.8-10.8v-27.5c0-2.2,0.7-4.4,2-6.2l14.9-21
+		C628,483.5,637,483.5,641.3,489.5z"/>
+	
+		<use xlink:href="#knob"  width="196.4" height="196.4" id="lx_x5F_ly" x="-98.2" y="-98.2" transform="matrix(1 0 0 -1 787.2865 630.248)" style="overflow:visible;"/>
+	<path id="share" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M763.2,351.9v21.6
+		c0,8.5-6.9,15.3-15.3,15.3c-8.5,0-15.3-6.9-15.3-15.3v-21.6c0-8.5,6.9-15.3,15.3-15.3C756.4,336.6,763.2,343.4,763.2,351.9z"/>
+	<path id="option" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M1166.2,373.5v-21.6
+		c0-8.5,6.9-15.3,15.3-15.3c8.5,0,15.3,6.9,15.3,15.3v21.6c0,8.5-6.8,15.3-15.3,15.3C1173.1,388.8,1166.2,382,1166.2,373.5z"/>
+	<path id="l1" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M726.1,287.9
+		c-0.2,27.3-22.4,50.9-51.4,50.9H647c-29,0-51.2-23.6-51.4-50.9H726.1z"/>
+	<path id="l2" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M726.1,287.9H595.6
+		c-0.1-4.8,0.6-9.8,2-14.8l13-44.9c14.6-50.4,86-50.4,100.5,0l13,44.9C725.5,278.1,726.2,283,726.1,287.9z"/>
+	<path id="r1" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M1333.8,287.9
+		c-0.2,27.3-22.4,50.9-51.4,50.9h-27.7c-29,0-51.2-23.6-51.4-50.9L1333.8,287.9z"/>
+	<path id="r2" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M1333.8,287.9l-130.5,0
+		c-0.1-4.8,0.6-9.8,2-14.8l13-44.9c14.6-50.4,86-50.4,100.5,0l13,44.9C1333.3,278.1,1333.9,283,1333.8,287.9z"/>
+	
+		<use xlink:href="#knob"  width="196.4" height="196.4" id="rx_x5F_ty" x="-98.2" y="-98.2" transform="matrix(1 0 0 -1 1139.1057 630.248)" style="overflow:visible;"/>
+	<path id="touchpad" style="fill:#FFFFFF;stroke:#000000;stroke-width:2.8346;stroke-miterlimit:10;" d="M786.9,298.6v9.3V477
+		c0,13.3,10.8,24,24,24h304.2c13.3,0,24-10.8,24-24V307.9v-9.3H786.9z"/>
+</g>
+</svg>

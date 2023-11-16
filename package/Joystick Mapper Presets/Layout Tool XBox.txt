@@ -1,0 +1,89 @@
+{
+	"name": "Layout Tool XBox",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "<write comments here>",
+			"binds": {
+				"axi 5 -": [
+					"key 23"
+				],
+				"btn 6": [
+					"key 20"
+				],
+				"hat 0 U": [
+					"key 13"
+				],
+				"hat 0 R": [
+					"key 17"
+				],
+				"hat 0 D": [
+					"key 14"
+				],
+				"hat 0 L": [
+					"key 25"
+				],
+				"btn 10": [
+					"key 10"
+				],
+				"axi 4 -": [
+					"key 29"
+				],
+				"btn 11": [
+					"key 18"
+				],
+				"btn 7": [
+					"key 7"
+				],
+				"btn 4": [
+					"key 28"
+				],
+				"btn 1": [
+					"key 5"
+				],
+				"btn 0": [
+					"key 4"
+				],
+				"btn 3": [
+					"key 12"
+				],
+				"btn 12": [
+					"key 24"
+				],
+				"btn 13": [
+					"key 33"
+				],
+				"btn 15": [
+					"key 19"
+				],
+				"axi 1 -": [
+					"key 39"
+				],
+				"axi 1 +": [
+					"key 31"
+				],
+				"axi 0 +": [
+					"key 30"
+				],
+				"axi 0 -": [
+					"key 32"
+				],
+				"axi 3 -": [
+					"key 34"
+				],
+				"axi 3 +": [
+					"key 36"
+				],
+				"axi 2 +": [
+					"key 35"
+				],
+				"axi 2 -": [
+					"key 37"
+				],
+				"btn 14": [
+					"key 38"
+				]
+			}
+		}
+	]
+}

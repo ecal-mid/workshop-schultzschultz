@@ -1,0 +1,89 @@
+{
+	"name": "Layout Tool PS4",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "<write comments here>",
+			"binds": {
+				"btn 6": [
+					"key 11"
+				],
+				"btn 4": [
+					"key 20"
+				],
+				"hat 0 U": [
+					"key 13"
+				],
+				"hat 0 R": [
+					"key 17"
+				],
+				"hat 0 D": [
+					"key 14"
+				],
+				"hat 0 L": [
+					"key 25"
+				],
+				"btn 8": [
+					"key 10"
+				],
+				"btn 9": [
+					"key 18"
+				],
+				"btn 5": [
+					"key 7"
+				],
+				"btn 7": [
+					"key 9"
+				],
+				"btn 3": [
+					"key 28"
+				],
+				"btn 2": [
+					"key 5"
+				],
+				"btn 1": [
+					"key 4"
+				],
+				"btn 0": [
+					"key 12"
+				],
+				"btn 13": [
+					"key 24"
+				],
+				"btn 12": [
+					"key 19"
+				],
+				"axi 1 -": [
+					"key 39"
+				],
+				"axi 1 +": [
+					"key 31"
+				],
+				"axi 0 +": [
+					"key 30"
+				],
+				"axi 0 -": [
+					"key 32"
+				],
+				"btn 10": [
+					"key 33"
+				],
+				"axi 5 -": [
+					"key 34"
+				],
+				"axi 5 +": [
+					"key 36"
+				],
+				"axi 2 +": [
+					"key 35"
+				],
+				"axi 2 -": [
+					"key 37"
+				],
+				"btn 11": [
+					"key 38"
+				]
+			}
+		}
+	]
+}

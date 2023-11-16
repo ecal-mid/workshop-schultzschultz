@@ -1,0 +1,29 @@
+ 
+SH	SHARE Button	1	BUTTON	8	0	0.0	0.0
+OP	OPTIONS Button	1	BUTTON	9	0	0.0	0.0
+TP	TOUCHPAD Button	1	BUTTON	13	0	0.0	0.0
+PS	PS Button	1	BUTTON	12	0	0.0	0.0
+
+HAT	Direction Hat	2	HAT	cooliehat: pov	0	1.0	0.0
+
+SQ	SQUARE Button	1	BUTTON	0	0	0.0	0.0
+CR	CROSS Button	1	BUTTON	1	0	0.0	0.0
+CI	CIRCLE Button	1	BUTTON	2	0	0.0	0.0
+TR	TRIANGLE Button	1	BUTTON	3	0	0.0	0.0
+
+R1	R1 Button	1	BUTTON	5	0	0.0	0.0
+R2	R2 Button	1	BUTTON	7	0	0.0	0.0
+R3	RJoy Button	1	BUTTON	11	0	0.0	0.0
+
+L1	L1 Button	1	BUTTON	4	0	0.0	0.0
+L2	L2 Button	1	BUTTON	6	0	0.0	0.0
+L3	LJoy Button	1	BUTTON	10	0	0.0	0.0
+
+LX	LX Analog	3	SLIDER	x	0	1.0	0.0
+LY	LY Analog	3	SLIDER	y	0	1.0	0.0
+LZ	L2 Slider	3	SLIDER	rx	0	1.0	0.0
+
+RX	RX Analog	3	SLIDER	z	0	1.0	0.0
+RY	RY Analog	3	SLIDER	rz	0	1.0	0.0
+RZ	R2 Slider	3	SLIDER	ry	0	1.0	0.0
+
